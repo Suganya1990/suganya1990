@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 
+<center>
+  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Angular
@@ -10,3 +12,4 @@
 - 📫 How to reach me: here
 - ⚡ Fun fact: 
 
+</center>
